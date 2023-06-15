@@ -19,4 +19,4 @@ env_variables:
   CLOUDSQL_PASSWORD: password
   CLOUDSQL_DSN: /cloudsql/tough-line-381213:asia-southeast2:rethread
   
-entrypoint: php index.php
+# entrypoint: php index.php
